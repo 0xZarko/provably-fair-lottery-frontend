@@ -26,7 +26,7 @@ Webapp was deployed using Fleek. To access it, you can use:
 
 CID: [QmbNKsvaswbvUFpaCZRYuUQpaDutBFQP7trTLLQ627XWJb](ipfs://bafybeigbsxglrpdpvahev4wbz7dql5ocfxb3qukow3336cjofwgbjj3hqa)
 
-URL: [lively-salad-6463.on.fleek.co](lively-salad-6463.on.fleek.co)
+URL: [lively-salad-6463.on.fleek.co](https://lively-salad-6463.on.fleek.co)
 
 Since I have not deployed the smart contracts on any testnet, only on the local hardhat chain, you will have to spin up a local hardhat node from the [lottery project](https://github.com/0xZarko/provably-fair-lottery) by doing:
 
